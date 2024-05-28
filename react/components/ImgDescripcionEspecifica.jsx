@@ -24,8 +24,6 @@ const ImgDescripcionEspecifica = () => {
 
     return (
         <>
-            valorAtributoImgDescripcionEspecifica === undefined ? <span></span>
-            :
             <img src={valorAtributoImgDescripcionEspecifica} alt="Imagen Descripcion Especifica" className='vtex-store-components-3-x-ImgDescripcionEspecifica' />
             <MudiExperience></MudiExperience>
         </>
