@@ -1,0 +1,10 @@
+:global(.DescripDescuento){
+    color: #fff;
+    background-color: #0a5cff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    width: max-content;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+}

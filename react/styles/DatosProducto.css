@@ -1,0 +1,38 @@
+:global(.BloqueCustom){
+    color: rebeccapurple;
+    background-color: yellow;
+}
+
+:global(.descripcionCorta){
+    text-align: justify;
+    color: grey;
+    font-size: 13px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+}
+:global(.precioVenta){
+    font-size: 20px;
+    font-weight: bold;
+    color: #002e55;
+}
+:global(.precioLista){
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+:global(.PrecioFull) {
+    text-align: center;
+    color: #002e55;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+:global(.precioOferta) {
+    text-align: center;
+    color: #57AA0E;
+    font-weight: bold;
+}

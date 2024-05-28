@@ -1,0 +1,3 @@
+import ImgCaracteristicaSecundaria1 from "./components/ImgCaracteristicaSecundaria1";
+
+export default ImgCaracteristicaSecundaria1

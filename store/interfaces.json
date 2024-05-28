@@ -1,0 +1,41 @@
+{
+  "URLFichaTecnica": {
+    "component": "URLFichaTecnica"
+  },
+  "DescripcionCorta": {
+    "component": "DescripcionCorta"
+  },
+  "Dimensiones": {
+    "component": "Dimensiones"
+  },
+  "ImgCaracteristicaPrincipal1": {
+    "component": "ImgCaracteristicaPrincipal1"
+  },
+  "ImgCaracteristicaPrincipal2": {
+    "component": "ImgCaracteristicaPrincipal2"
+  },
+  "ImgCaracteristicaPrincipal3": {
+    "component": "ImgCaracteristicaPrincipal3"
+  },
+  "ImgCaracteristicaPrincipal4": {
+    "component": "ImgCaracteristicaPrincipal4"
+  },
+  "VerGarantia": {
+    "component": "VerGarantia"
+  },
+  "ImgCaracteristicaSecundaria1": {
+    "component": "ImgCaracteristicaSecundaria1"
+  },
+  "ImgCaracteristicaSecundaria2": {
+    "component": "ImgCaracteristicaSecundaria2"
+  },
+  "ImgCaracteristicaSecundaria3": {
+    "component": "ImgCaracteristicaSecundaria3"
+  },
+  "ImgDescripcionEspecifica": {
+    "component": "ImgDescripcionEspecifica"
+  },
+  "TextoDescripcionEspecifica": {
+    "component": "TextoDescripcionEspecifica"
+  }
+}
