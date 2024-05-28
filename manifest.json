@@ -1,7 +1,7 @@
 {
   "vendor": "colchonesfantasiacol",
   "name": "custom-producto",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "title": "Componente de datos del Producto",
   "description": "Componente de datos del Producto",
   "defaultLocale": "pt-BR",
